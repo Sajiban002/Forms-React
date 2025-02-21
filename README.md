@@ -1,8 +1,11 @@
 # Forms-React
 
-Форма-задание на добавление обработчика событий для передачи данных в консоль.
-Файл: /scr/pages/Contact/Forms.js
-[https://www.figma.com/design/a8wx6iSjafCqs6KXMy8ErH/Client-First-Template-12---Blog-(Community)]
+### Форма-задание на добавление обработчика событий
+
+**Файл:** `/scr/pages/Contact/Forms.js`
+
+[Ссылка на Figma](https://www.figma.com/design/a8wx6iSjafCqs6KXMy8ErH/Client-First-Template-12---Blog-(Community))
+
 
 ## Установка
 
