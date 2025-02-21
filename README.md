@@ -12,7 +12,7 @@
 1.  **Установите зависимости:**
 
     ```bash
-    npm install
+    npx create-react-app formsreact
     ```
 2.  Установите `router-dom` для навигации:
 
