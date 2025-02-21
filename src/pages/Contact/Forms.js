@@ -49,7 +49,7 @@ function Forms() {
                 </div>
             </div>
 
-            <p className="timer">Текущее время: {time}</p> {/* Timer Display */}
+            <p className="timer">Текущее время: {time}</p>
 
             <form className="formsForm" onSubmit={checkstatus}>
                 <label htmlFor="fullName" className="formsLabel">Full Name</label>
